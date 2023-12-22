@@ -6,7 +6,7 @@
     templates = {
 
       example = {
-        path = ./default;
+        path = ~/.isma;
         description = "Basic NixOS config flake";
       };
 
